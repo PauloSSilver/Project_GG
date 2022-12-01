@@ -1,5 +1,3 @@
 # Project GG
 
-# Q: What it does?
-asdasd
-# A: Nothing for now :D
+dec. 01 2022
